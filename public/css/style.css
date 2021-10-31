@@ -235,6 +235,11 @@
   .vert{
     color: #89c94d;
   }
+
+  .bgvert{
+    background-color: #89c94d;
+  }
+
   .orange{
     color: #ffa733;
   }
